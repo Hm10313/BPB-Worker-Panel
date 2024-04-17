@@ -1,6 +1,6 @@
 <h1 align="center">💦 BPB Panel</h1>
 
-#### 🌏 Readme in [Farsi](README_fa.md)
+### 🌏 Readme in [Farsi](README_fa.md)
 
 <p align="center">
   <img src="docs/assets/images/Panel.jpg">
@@ -29,15 +29,25 @@ This project is dedicated to developing a user panel for the [Cloudflare-workers
 <br>
 
 ## How to use:
-[Installation (Pages)](docs/pages_installation_fa.md)
+- [Installation (Pages)](docs/pages_installation_fa.md)
 
-[Installation (Worker)](docs/worker_installation_fa.md)
+- [Installation (Worker)](docs/worker_installation_fa.md)
 
-[How to use](docs/configuration_fa.md)
+- [How to use](docs/configuration_fa.md)
 
-[Troubleshooting](docs/troubleshooting.md)
+- [FAQ](docs/faq.md)
+<br>
 
-[FAQ](docs/faq.md)
+## Supported Clients
+- **v2rayNG** (1.8.19 or higher)
+- **v2rayN** (6.42 or higher)
+- **Nekobox**
+- **Sing-box** (1.8.10 or higher)
+- **Streisand**
+- **V2Box**
+- **Shadowrocket**
+- **Nekoray**
+- **Hiddify**
 
 ---
 
